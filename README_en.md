@@ -15,3 +15,7 @@
     - Our public projects are automatically synchronized to GitHub
 
 - Logo and Design Information can be found [here](Logo-and-Design_en.md)
+
+## Bonus Animation
+
+![Logo-Animation](assets/Logo-Animation.gif)
