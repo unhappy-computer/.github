@@ -1,6 +1,6 @@
 # unhappy.computer
 
-> [Deutsche Übersetzung hier](/README.md)
+> [Deutsche Übersetzung hier](profile/README.md)
 
 ![Logo](assets/Logo.png)
 

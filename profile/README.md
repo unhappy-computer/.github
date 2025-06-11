@@ -2,7 +2,7 @@
 
 > [English translation here](/README_en.md)
 
-![Logo](assets/Logo.png)
+![Logo](/assets/Logo.png)
 
 > Hi, We are unhappy.computer. We are not happy...but working on cool things.
 
@@ -14,4 +14,4 @@
     - Unsere Gitlab Gruppe kann [hier](https://git.unhappy.computer/uc) gefunden werden
     - Unsere öffnetlichen Projekte werden automatisch zu GitHub synchcronisiert
 
-- Logo und Design Informationen können [hier](Logo-and-Design.md) gefunden werden
+- Logo und Design Informationen können [hier](/Logo-and-Design.md) gefunden werden
