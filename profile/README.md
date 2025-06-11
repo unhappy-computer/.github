@@ -18,4 +18,4 @@
 
 ## Bonus Animation
 
-![Logo-Animation](assets/Logo-Animation.gif)
+![Logo-Animation](/assets/Logo-Animation.gif)
