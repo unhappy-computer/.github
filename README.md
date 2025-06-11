@@ -14,4 +14,4 @@
     - Unsere Gitlab Gruppe kann [hier](https://git.unhappy.computer/uc) gefunden werden
     - Unsere öffnetlichen Projekte werden automatisch zu GitHub synchcronisiert
 
-- Logo und Design Information können [hier](Logo-and-Design.md) gefunden werden
+- Logo und Design Informationen können [hier](Logo-and-Design.md) gefunden werden
