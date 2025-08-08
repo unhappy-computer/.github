@@ -1,7 +1,5 @@
 # unhappy.computer
 
-> [Deutsche Übersetzung hier](profile/README.md)
-
 ![Logo](assets/Logo.png)
 
 > Hi, We are unhappy.computer. We are not happy...but working on cool things.
